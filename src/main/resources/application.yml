@@ -1,0 +1,8 @@
+server:
+  port: 8090
+  #访问路径添加项目名
+  servlet:
+    context-path: /ThemeleafTest
+spring:
+  application:
+    name: Themeleaf
